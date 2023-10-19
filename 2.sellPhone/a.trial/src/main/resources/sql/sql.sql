@@ -1,0 +1,22 @@
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (1, '2023-10-17', '8109 Claremont Street', 'agroven0');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (2, '2023-10-14', '1452 Anderson Point', 'dcopo1');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (3, '2023-10-11', '0324 Ryan Avenue', 'dscanlon2');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (4, '2023-10-12', '8 Rigney Park', 'wbento3');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (5, '2023-10-13', '59712 Towne Lane', 'ddulany4');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (6, '2023-10-13', '445 Sherman Plaza', 'gubsdell5');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (7, '2023-10-12', '4092 Sullivan Lane', 'ccorstorphine6');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (8, '2023-10-16', '73 Sage Terrace', 'abutter7');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (9, '2023-10-12', '47053 Chinook Drive', 'kschachter8');
+insert into MEMBER (MEMBER_ID_CODE, MEMBER_JOIN_DATE, MEMBER_ADDRESS, MEMBER_ID) values (10, '2023-10-11', '54705 3rd Point', 'mraeburn9');
+
+
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (1, '2023-10-16', 248991, 10);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (2, '2023-10-16', 60800, 3);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (3, '2023-10-14', 314849, 1);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (4, '2023-10-12', 526248, 8);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (5, '2023-10-15', 629200, 10);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (6, '2023-10-13', 50682, 7);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (7, '2023-10-14', 346762, 7);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (8, '2023-10-16', 625717, 9);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (9, '2023-10-16', 328094, 9);
+insert into ORDERS (O_NO, CREATEDATE, O_PRICE, MEMBER_ID_CODE) values (10, '2023-10-13', 110893, 5);
