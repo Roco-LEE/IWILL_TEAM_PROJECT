@@ -1,4 +1,4 @@
-## 01. hotSix
+# 01. hotSix
 <details>
   
 ### 💻 프로젝트 소개
@@ -13,10 +13,14 @@
 |- 회원가입 <br> - 비회원 로그인|- 로그인 <br> - ID/PW찾기|- 상품 리스트 <br> - 검색기능| - 최다 조회수 배너 <br> - 상세페이지 출력|- 장바구니 <br> - 수량조정|- FE 레이아웃 구성 <br> - 주문 및 결제내역|
 
 ### ⚙ 개발 환경
-- Java 1.8
-- Swing
-- JDBC
-- Oracle
+#### ✔ Back-End
+<img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> <img src="https://img.shields.io/badge/jdbc-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+#### ✔ Front-End
+<img src="https://img.shields.io/badge/swing-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">
+
+#### ✔ Tools
+<img src="https://img.shields.io/badge/eclipse se-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 📄 주요 기능
 | 회원 페이지 | 상품 페이지 | 장바구니 페이지 |
@@ -27,7 +31,7 @@
 ⏩[hotSix](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/01.hotSix)
 </details>
 
-## 02. sellPhone
+# 02. sellPhone
 <details>
   
 ### 💻 프로젝트 소개
@@ -46,10 +50,14 @@
 |- 장바구니 <br> - 요금제 변경|- 주문내역 조회|- 카드/계좌이체 기능구현 <br> - 요금제 구현|
 
 ### ⚙ 개발 환경
-- Java 1.8
-- JSP
-- MyBatis
-- HTML, JavaScript, CSS
+#### ✔ Back-End
+<img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> <img src="https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+#### ✔ Front-End
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+#### ✔ Tools
+<img src="https://img.shields.io/badge/eclipse ee-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 📄 주요 기능
 | 메인 페이지 | 회원 페이지 |
@@ -65,7 +73,7 @@
 </details>
 
 
-## 03. Avengers - Danaga.com
+# 03. Avengers - Danaga.com
 ### 💻 프로젝트 소개
 컴퓨터, 노트북 최저가 구매 ‘다나가닷컴’입니다.
 
@@ -82,12 +90,14 @@
 | - 주문처리 <br> - 비회원 주문 <br> 주문번호 이메일 발송  | - 주문목록 <br> 배송상태 조회/변경 <br> - 환불/취소 <br> - 비회원 주문조회   | - 게시판 <br> - 작성, 수정, 삭제 <br> - 댓글, 좋아요 <br> - 인기글 <br> - 에디터 기능 <br> - 페이징/검색 | - 사이트 통계 <br> - 엑셀 다운로드 <br> - 제품 등록/삭제 <br> - 주문상태 변경 <br> - 회원/게시글 삭제 |
 
 ### ⚙ 개발 환경
-- Java Spring Boot 3.1.4
-- JPA
-- Thymeleaf
-- JavaScript
-- BootStrap 4
-- Oracle DB
+#### ✔ Back-End
+<img src="https://img.shields.io/badge/Spring Boot 3.1.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-2C2255?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+#### ✔ Front-End
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery 3.6.0-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap 4-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+#### ✔ Tools
+<img src="https://img.shields.io/badge/STS 4.19.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 ### 📄 주요 기능
 | 메인 페이지 | 회원 페이지 |
