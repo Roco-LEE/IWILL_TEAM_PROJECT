@@ -1911,7 +1911,7 @@ public class MainFrame extends JFrame {
 	
 	public Product showMaxReadCountProduct() throws Exception{
 		 Product maxProduct = productService.productMaxReadCount();
-		 product_maxReadCount_Image_label.setIcon(new ImageIcon(MainFrameProduct2_REAL_FIANAL.class.getResource("/" + maxProduct.getProduct_image())));
+		 product_maxReadCount_Image_label.setIcon(new ImageIcon(MainFrame.class.getResource("/" + maxProduct.getProduct_image())));
 		 product_maxReadCount_name_label.setText(String.valueOf(maxProduct.getProduct_name()));
 		 product_maxReadCount_readCount_label.setText(String.valueOf(maxProduct.getProduct_read_count()));
 		return maxProduct;		 
