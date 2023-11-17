@@ -1,4 +1,4 @@
-# 01. hotSix
+# 01. hotSix - 원데이클라스
 <details>
   
 ### 💻 프로젝트 소개
@@ -31,7 +31,7 @@
 ⏩[hotSix](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/01.hotSix)
 </details>
 
-# 02. sellPhone
+# 02. sellPhone - 통신사
 <details>
   
 ### 💻 프로젝트 소개
